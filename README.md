@@ -1,5 +1,5 @@
 <div align = "center">
- <h2  align = "center"> 
-   Thanks for stopping by!
- </h2>
+ <h4 align = "center"> 
+   🌹 Thanks for stopping by! 🌹
+ </h4>
 </div>
