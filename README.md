@@ -1,3 +1,5 @@
-##Meticulously editing, updating, and cleaning up my repos cause I'm trying to get a job as a designer-engineer.
-
-Please hire me, you won't be dissappointed!
+<div align = "center">
+ <h2  align = "center"> 
+   Thanks for stopping by!
+ </h2>
+</div>
